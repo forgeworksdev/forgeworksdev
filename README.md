@@ -8,6 +8,7 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 ## My hobbies:
 
 **Priorities:**
+- - Circuit Design (Analog and Digital circuits);
 - - Graphic Design (Vector Graphics);
 - - Game Development (Godot Engine);
 - - Pixel Art;
@@ -16,7 +17,6 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 
 **Ones I practice when possible, but which I still love:**
 - - Voxel Art;
-- - Circuit Design (Analog and Digital circuits);
 - - Programming for Logic Programmable Controllers;
 - - Web development;
 - - Programming.
