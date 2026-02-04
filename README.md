@@ -12,7 +12,7 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 - - Graphic Design (Vector Graphics);
 - - Game Development (Godot Engine);
 - - Pixel Art;
-- - 3D Art;
+- - 3D Art.
 
 
 **Ones I practice when possible, but which I still love:**
@@ -21,7 +21,6 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 - - Web development;
 - - Programming.
 
-<!--
 ## Current app stack:
 
 - Vector art: Inkscape
@@ -35,15 +34,11 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 
 - 3D CAD: FreeCAD (Might try LeoCAD)
 - IDE: Zed
-- Game engine: Godot / PICO 8 / PixelVision 8 (Planning on getting on Defold and Unity too)
+- Game engine: Godot
 - Circuit design: Fritzing
-- Circuit Simualtion: falstad
+- Circuit Simulation: falstad
 
 - Notes: Trillium Next
 
 - 📫 Contact: forgeworks@proton.me
--->
-<!---
-Max9th/Max9th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
