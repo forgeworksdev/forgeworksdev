@@ -14,7 +14,9 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 - - Pixel Art;
 - - 3D Art.
 
+📫 Contact: forgeworks@proton.me
 
+<!--
 **Ones I practice when possible, but which I still love:**
 - - Voxel Art;
 - - Programming for Logic Programmable Controllers;
@@ -39,6 +41,6 @@ Autistic guy who likes robotics, 2000s 3D graphics, making games and doodling
 - Circuit Simulation: falstad
 
 - Notes: Trillium Next
+-->
 
-- 📫 Contact: forgeworks@proton.me
 
